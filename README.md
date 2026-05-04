@@ -4,7 +4,7 @@ A simple python project that uses machine learning to predict the users grade as
 
 Important : This README file was written long after this project was created. 
 
-""Overview**
+**Overview**
 
 The program created uses scikit-learn's linear regression model in combination with a csv file of data (unable to be uploaded) to create a machine learnign model that takes the users input of study time and use it to predict their grade on an assesment.
 This allows the users to determine the relation between their study hours and grades, letting them decide on how they can study more effeciently.
