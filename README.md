@@ -1,4 +1,4 @@
-**Grade Predictor Based on Study Hours**
+# Grade Predictor Based on Study Hours
 
 A simple python project that uses machine learning to predict the users grade as a percentage based on study time.
 
